@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+  /*height: 100vh;*/
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+body p {
+  align-items: center;
+}
+
+button {
+  border: none;
+  background-color: white;
+  width: 15em;
+  font-size: 1.5rem;
+}
